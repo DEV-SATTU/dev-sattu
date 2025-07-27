@@ -1,8 +1,11 @@
-## Hi there! 👋 I'm Satyajeet Mawaskar
+# 👋 Hi there! I'm Satyajeet Mawaskar
 
-#🎓 Final Year B.Voc Student in **AI & Robotics**  
-#🤖 Tech enthusiast passionate about solving real-world problems through innovative projects  
-#🌏 Based in India
+🎓 Final Year B.Voc Student in **AI & Robotics**  
+🤖 Tech enthusiast passionate about solving real-world problems through innovative projects  
+🌏 India  
+
+> “I believe in building first, learning deeply along the way.”
+---
 
 ## 💻 Technical Skills
 
@@ -34,9 +37,34 @@
 ![Robotics](https://img.shields.io/badge/-Robotics-0B3D91?style=flat-square&logo=raspberrypi&logoColor=white)
 ![APIs](https://img.shields.io/badge/-APIs-49A942?style=flat-square&logo=swagger&logoColor=white)
 
+---
 
-> “I believe in building first, learning deeply along the way.”
+### 1. 🩺 Diabetes Diagnosis System
+- A machine learning-based model that predicts diabetes using patient health data.
+- 📊 Technologies: Python, Pandas, Scikit-learn, Flask, HTML/CSS
+
+### 2. 📄 Resume Analyzer
+- A smart analyzer that evaluates resumes and maps skills to job roles using NLP.
+- 🤖 Technologies: Python, NLP, Flask, Resume Parser Libraries
+
+### 3. 🏠 Smart Home Automation System
+- IoT-based home automation using Arduino to control appliances via sensors and web UI.
+- 🔧 Technologies: Arduino, C++, TinkerCad
 
 ---
 
--->
+## ☕ Support My Work
+
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊  
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-e66465?style=flat-square&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/yourusername)
+
+---
+
+## 📈 GitHub Stats
+
+![Satyajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatyajeetMawaskar&show_icons=true&theme=react&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajeetMawaskar&layout=compact&theme=react&hide_border=true)
+
+---
+

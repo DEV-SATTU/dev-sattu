@@ -6,8 +6,6 @@
 
 > “I believe in building first, learning deeply along the way.”
 
-![GitHub Avatar](https://avatars.githubusercontent.com/u/583231?v=4) <!-- You can replace this with your real avatar or use a cartoon avatar from any avatar generator -->
-
 ---
 
 -->
